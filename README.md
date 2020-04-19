@@ -18,11 +18,11 @@ $ npx create-react-app todolist
 
 unefois l'installation terminé voici ce que votre terminal vous dira 
 
-![info terminal]('assets/endTerminal.png')
+<img src='assets/endTerminal.png' alt="endTerminal"/>
 
 et vous devriez avoir ceci dans votre dossier
 
-![folder]('assets/folder.png')
+ <img src='assets/folder.png' alt="folder"/>
 
 
 Ensuite il vous faut installer le module Firebase afin de pouvoire ce connecter a la base de donnée 
@@ -43,7 +43,7 @@ Maintenant il nous faut preparer la base de donnée afin que nos info puisse etr
 
 pour cela rendeez vous sur [Firebase](https://firebase.google.com/)
 
-![firebase acceuille]('assets/firebase.png')
+<img src='assets/firebase.png' alt='firebase' />
 
 connecter vous avec votre compte google pour cela il faut cliqué sur "**connexion**", une fois connecter cliqué sur "**Accéder à la console**" vous arriverez sur la page qui repertorie tout vos project
 
@@ -56,6 +56,6 @@ Voila appuyer sur créé :)
 
 nous voila sur cette jolie page ! 
 
-![acceuille du projet firebase]('assets/acceuilleProject.png')
+<img src='assets/acceuilleProject.png' alt='acceuilleProject'/>
 
 Nous nous retrouverons lors du petit whorkshop, auquel je vous expliquerait les differente fonctionnalité.
