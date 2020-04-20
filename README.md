@@ -16,7 +16,7 @@ $ npx create-react-app todolist
 ```
 (ATTENTION react n'accepte pas le uppercase pour le nom de votre application)
 
-unefois l'installation terminé voici ce que votre terminal vous dira 
+une fois l'installation terminé voici ce que votre terminal vous dira 
 
 <img src='assets/endTerminal.png' alt="endTerminal"/>
 
